@@ -50,3 +50,4 @@ If you're an enterprise developer looking to build on a fully-managed platform, 
 Contributions are welcome. See [contributing](https://github.com/google-gemini/cookbook/blob/main/CONTRIBUTING.md) to learn more.
 
 Thank you for developing with the Gemini API! We’re excited to see what you create.
+# ** modified by CASH**
